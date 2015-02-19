@@ -20,3 +20,5 @@ Core, Themes and Plugins:
 	//$disabled_types = array( 'core' );
 	//$disabled_types = array( 'core', 'theme' );
 	$disabled_types = array( 'core', 'theme', 'plugin' );
+
+props: @ocean90
